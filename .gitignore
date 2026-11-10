@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+__pycache__/
+.ipynb_checkpoints/
+lseg-data.config.json
